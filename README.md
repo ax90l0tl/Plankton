@@ -1,3 +1,7 @@
+# This repository is a fork of the original Plankton Simulator [here](https://github.com/Liquid-ai/Plankton)
+Main differences are that the uuv_assistant scripts have been fixed thanks to [MaxxWilson](https://github.com/MaxxWilson) pull requests.
+Some issues are still present in the robot creation process. They will be listed in the issues tab.
+
 # [Plankton](https://www.liquid-tech.ai/)
 Open source simulator for maritime robotics researchers
 
