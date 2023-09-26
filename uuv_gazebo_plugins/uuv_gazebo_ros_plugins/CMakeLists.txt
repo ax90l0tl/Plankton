@@ -26,6 +26,7 @@ find_package(gazebo_ros REQUIRED)
 set(BASE_LIBS  
   ament_cmake 
   gazebo_dev
+  gazebo_ros
   geometry_msgs 
   rclcpp 
   sensor_msgs 
